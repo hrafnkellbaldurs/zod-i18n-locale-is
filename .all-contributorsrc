@@ -13,7 +13,9 @@
       "profile": "https://github.com/aiji42",
       "contributions": [
         "code",
-        "translation"
+        "translation",
+        "test",
+        "ideas"
       ]
     },
     {
@@ -41,6 +43,26 @@
       "name": "Luiz Oliveira Montedonio",
       "avatar_url": "https://avatars.githubusercontent.com/u/36773088?v=4",
       "profile": "https://github.com/montedonioluiz",
+      "contributions": [
+        "translation",
+        "test"
+      ]
+    },
+    {
+      "login": "izayoi-hibiki",
+      "name": "Izayoi Hibiki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23469365?v=4",
+      "profile": "https://github.com/izayoi-hibiki",
+      "contributions": [
+        "translation",
+        "test"
+      ]
+    },
+    {
+      "login": "hrafnkellbaldurs",
+      "name": "Hrafnkell Baldursson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5609118?v=4",
+      "profile": "https://hrafnkellbaldurs.com/",
       "contributions": [
         "translation",
         "test"
